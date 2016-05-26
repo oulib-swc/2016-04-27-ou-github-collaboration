@@ -8,7 +8,7 @@
 ## official -  language English
 
 
-## interesting -  trivia has 1,156 individual islands and islets
+## interesting trivia -  has 1,156 individual islands and islets
 
 
 
