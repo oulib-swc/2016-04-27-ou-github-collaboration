@@ -1,14 +1,15 @@
 ##Russian_Federation
-## population
+## population:  
+## Population: 144,192,450
 
-
-## capital
+## Capital: Moscow
 
  
-## official language
+## Official language: Russian
 
 
-## interesting trivia
+## Interesting trivia: It's the largest country by area in the world, with 11 time
+zones
 
 
 
