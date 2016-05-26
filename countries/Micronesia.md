@@ -1,14 +1,14 @@
 ##Micronesia
-## population 106,104
+## population -  106,104
 
 
-## capital Palikir
+## capital -  Palikir
 
  
-## official language English
+## official -  language English
 
 
-## interesting trivia has 1,156 individual islands and islets
+## interesting -  trivia has 1,156 individual islands and islets
 
 
 
