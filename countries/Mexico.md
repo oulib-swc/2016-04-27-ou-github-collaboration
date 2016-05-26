@@ -1,14 +1,15 @@
 ##Mexico
-## population
+## population-119,530,753
 
 
-## capital
+## capital- Mexico City (DF)
 
  
-## official language
+## official language- Espanol	
 
 
-## interesting trivia
+## interesting trivia - No era penal. Cinco de Mayo isn't 
+Mexico's independence day. Half my family lives there.
 
 
 
